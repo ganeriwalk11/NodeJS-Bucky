@@ -1,0 +1,2 @@
+require('./parth');
+require('./krishna');
